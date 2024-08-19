@@ -1,0 +1,175 @@
+========= DAY 22 ========
+Solving part 1: 306 (took 15.5µs)
+Solving part 2: 
+Player 1's deck: Deck([9, 2, 6, 3, 1])
+Player 2's deck: Deck([5, 8, 4, 7, 10])
+Player 1 plays: 9
+Player 2 plays: 5
+Player 1 wins the round!
+
+Player 1's deck: Deck([2, 6, 3, 1, 9, 5])
+Player 2's deck: Deck([8, 4, 7, 10])
+Player 1 plays: 2
+Player 2 plays: 8
+Player 2 wins the round!
+
+Player 1's deck: Deck([6, 3, 1, 9, 5])
+Player 2's deck: Deck([4, 7, 10, 8, 2])
+Player 1 plays: 6
+Player 2 plays: 4
+Player 1 wins the round!
+
+Player 1's deck: Deck([3, 1, 9, 5, 6, 4])
+Player 2's deck: Deck([7, 10, 8, 2])
+Player 1 plays: 3
+Player 2 plays: 7
+Player 2 wins the round!
+
+Player 1's deck: Deck([1, 9, 5, 6, 4])
+Player 2's deck: Deck([10, 8, 2, 7, 3])
+Player 1 plays: 1
+Player 2 plays: 10
+Player 2 wins the round!
+
+Player 1's deck: Deck([9, 5, 6, 4])
+Player 2's deck: Deck([8, 2, 7, 3, 10, 1])
+Player 1 plays: 9
+Player 2 plays: 8
+Player 1 wins the round!
+
+Player 1's deck: Deck([5, 6, 4, 9, 8])
+Player 2's deck: Deck([2, 7, 3, 10, 1])
+Player 1 plays: 5
+Player 2 plays: 2
+Player 1 wins the round!
+
+Player 1's deck: Deck([6, 4, 9, 8, 5, 2])
+Player 2's deck: Deck([7, 3, 10, 1])
+Player 1 plays: 6
+Player 2 plays: 7
+Player 2 wins the round!
+
+Player 1's deck: Deck([4, 9, 8, 5, 2])
+Player 2's deck: Deck([3, 10, 1, 7, 6])
+Playing a sub-game to determine the winner...
+
+Player 1's deck: Deck([9, 8, 5, 2])
+Player 2's deck: Deck([10, 1, 7])
+Player 1 plays: 9
+Player 2 plays: 10
+Player 2 wins the round!
+
+Player 1's deck: Deck([8, 5, 2])
+Player 2's deck: Deck([1, 7, 10, 9])
+Player 1 plays: 8
+Player 2 plays: 1
+Player 1 wins the round!
+
+Player 1's deck: Deck([5, 2, 8, 1])
+Player 2's deck: Deck([7, 10, 9])
+Player 1 plays: 5
+Player 2 plays: 7
+Player 2 wins the round!
+
+Player 1's deck: Deck([2, 8, 1])
+Player 2's deck: Deck([10, 9, 7, 5])
+Player 1 plays: 2
+Player 2 plays: 10
+Player 2 wins the round!
+
+Player 1's deck: Deck([8, 1])
+Player 2's deck: Deck([9, 7, 5, 10, 2])
+Player 1 plays: 8
+Player 2 plays: 9
+Player 2 wins the round!
+
+Player 1's deck: Deck([1])
+Player 2's deck: Deck([7, 5, 10, 2, 9, 8])
+Player 1 plays: 1
+Player 2 plays: 7
+Player 2 wins the round!
+...Player 2 wins the round!
+
+Player 1's deck: Deck([9, 8, 5, 2])
+Player 2's deck: Deck([10, 1, 7, 6, 3, 4])
+Player 1 plays: 9
+Player 2 plays: 10
+Player 2 wins the round!
+
+Player 1's deck: Deck([8, 5, 2])
+Player 2's deck: Deck([1, 7, 6, 3, 4, 10, 9])
+Player 1 plays: 8
+Player 2 plays: 1
+Player 1 wins the round!
+
+Player 1's deck: Deck([5, 2, 8, 1])
+Player 2's deck: Deck([7, 6, 3, 4, 10, 9])
+Player 1 plays: 5
+Player 2 plays: 7
+Player 2 wins the round!
+
+Player 1's deck: Deck([2, 8, 1])
+Player 2's deck: Deck([6, 3, 4, 10, 9, 7, 5])
+Playing a sub-game to determine the winner...
+
+Player 1's deck: Deck([8, 1])
+Player 2's deck: Deck([3, 4, 10, 9, 7, 5])
+Player 1 plays: 8
+Player 2 plays: 3
+Player 1 wins the round!
+
+Player 1's deck: Deck([1, 8, 3])
+Player 2's deck: Deck([4, 10, 9, 7, 5])
+Playing a sub-game to determine the winner...
+
+Player 1's deck: Deck([8])
+Player 2's deck: Deck([10, 9, 7, 5])
+Player 1 plays: 8
+Player 2 plays: 10
+Player 2 wins the round!
+...Player 2 wins the round!
+
+Player 1's deck: Deck([8, 3])
+Player 2's deck: Deck([10, 9, 7, 5, 4, 1])
+Player 1 plays: 8
+Player 2 plays: 10
+Player 2 wins the round!
+
+Player 1's deck: Deck([3])
+Player 2's deck: Deck([9, 7, 5, 4, 1, 10, 8])
+Player 1 plays: 3
+Player 2 plays: 9
+Player 2 wins the round!
+...Player 2 wins the round!
+
+Player 1's deck: Deck([8, 1])
+Player 2's deck: Deck([3, 4, 10, 9, 7, 5, 6, 2])
+Player 1 plays: 8
+Player 2 plays: 3
+Player 1 wins the round!
+
+Player 1's deck: Deck([1, 8, 3])
+Player 2's deck: Deck([4, 10, 9, 7, 5, 6, 2])
+Playing a sub-game to determine the winner...
+
+Player 1's deck: Deck([8])
+Player 2's deck: Deck([10, 9, 7, 5])
+Player 1 plays: 8
+Player 2 plays: 10
+Player 2 wins the round!
+...Player 2 wins the round!
+
+Player 1's deck: Deck([8, 3])
+Player 2's deck: Deck([10, 9, 7, 5, 6, 2, 4, 1])
+Player 1 plays: 8
+Player 2 plays: 10
+Player 2 wins the round!
+
+Player 1's deck: Deck([3])
+Player 2's deck: Deck([9, 7, 5, 6, 2, 4, 1, 10, 8])
+Player 1 plays: 3
+Player 2 plays: 9
+Player 2 wins the round!
+Winning decks: (Deck([]), Deck([7, 5, 6, 2, 4, 1, 10, 8, 9, 3]))
+() (took 565.8µs)
+
