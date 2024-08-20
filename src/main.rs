@@ -9,7 +9,8 @@ use advent::day20;
 use advent::day22;
 use advent::day23;
 use advent::day24;
+use advent::day25;
 
 fn main() {
-    day24::Solution::init().solve();
+    day25::Solution::init().solve();
 }
